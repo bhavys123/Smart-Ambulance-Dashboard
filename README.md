@@ -1,1 +1,1 @@
-# Smart-Ambulance-Dashboard
+# SmartAmbulanceDashboard
